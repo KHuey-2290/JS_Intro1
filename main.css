@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    background-color: lightblue;
+}
+
+header {
+    margin: auto;
+    margin-bottom: 75px;
+}
+
+#docHeader {
+    box-sizing: border-box;
+    margin: 20px auto;
+    width: 90%;
+    min-height: 200px;
+    padding: 20px;
+}
+
+#buttonColorChange {
+    margin-bottom: 50px;
+    margin-left: 45%;
+    padding: 10px;
+
+}
+
+.flowers {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.flowers img {
+    width: 20%;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+}
+
+.button-row button {
+    padding: 10px;
+}
+
+.large-flower-img {
+    width: 60%;
+    margin: 75px auto;
+}
+
+.large-flower-img img {
+    width: 100%;
+}
